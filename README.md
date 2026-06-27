@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarmenLazaroSanz
 - 👀 I’m interested in data analytics and visualization.
-- 🌱 I’m currently learning at St Thomas University on my MS in Big Data Analytics.
+- 🌱 I’m currently working at American Choice Healthcare as a Population Health Analyst II.
 - 💞️ I’m looking to collaborate on new projects that'll allow myself to apply current knowledge and expand it! 
 - 📫 You can reach me on my email: carmenlazarosanz@gmail.com
 
